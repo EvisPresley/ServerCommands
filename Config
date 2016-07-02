@@ -4,3 +4,4 @@ _____________________________________________
 ____________________________________________
 
 Perms: ServerCommands.Server
+AdminPerms: ServerCommands.*
