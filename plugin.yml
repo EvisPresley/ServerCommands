@@ -1,0 +1,8 @@
+name: SkyQuestServer
+version: 1.0
+author: CullanP
+main: me.TKUIYEAGER1.ServerPrefix.Main
+description: Changes SkyQuest server's prefix
+commands:
+    serverprefix:
+        description: Shows SkyQuest Server Prefix
